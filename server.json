@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "teste",
+      "price": 10,
+      "category": "App",
+      "type": "income",
+      "createdAt": "2023-07-27T23:27:53.388Z",
+      "id": 4
+    },
+    {
+      "description": "aaaa",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-27T23:38:23.430Z",
+      "id": 5
     }
   ]
 }
